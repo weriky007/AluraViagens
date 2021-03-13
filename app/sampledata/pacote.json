@@ -1,0 +1,16 @@
+{
+"pacotes" : [
+{
+  "imagem_pacote": "@drawable/sao_paulo_sp",
+  "cidade": "Sao Paulo",
+  "dias": "2 dias",
+  "preco": "R$250.00"
+},
+{
+"imagem_pacote": "@drawable/recife_pe",
+"cidade": "Recife",
+"dias": "2 dias",
+"preco": "R$290.00"
+}
+  ]
+}
